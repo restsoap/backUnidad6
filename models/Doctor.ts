@@ -2,17 +2,6 @@ import { DataTypes, Model } from 'sequelize';
 import sequelize from '../config/database';
 import Especialidad from './Especialidad';
 
-/*
-interface DoctorAttributes {
-  id: number;
-  nombre: string;
-  apellido: string;
-  idespecialidad: number;
-  consultorio: string;
-  correo: string;
-}
-*/
-
 class Doctor extends Model {
   public id!: number;
   public nombre!: string;
