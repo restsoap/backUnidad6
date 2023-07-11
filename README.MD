@@ -1,6 +1,6 @@
 	Participantes del grupo
 
-[Andres Rolon Reyes],              [miguel Beltran saavedra]                [Brayan Yesid Cañon Rodriguez] 
+[Andres Rolon Reyes](https://github.com/SAITO990), [Miguel Beltran Saavedra](https://github.com/migueldj94), [Brayan Yesid Cañon Rodriguez](https://github.com/restsoap)
 
 
 Para el BackEnd se utilizarón las siguientes tecnologias
