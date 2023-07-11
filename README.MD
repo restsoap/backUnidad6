@@ -1,6 +1,6 @@
-	- Participantes del grupo
+	Participantes del grupo
 
-Andres Rolon Reyes                     miguel Beltran saavedra                 Brayan Yesid Cañon Rodriguez 
+[Andres Rolon Reyes],              [miguel Beltran saavedra]                [Brayan Yesid Cañon Rodriguez] 
 
 
 Para el BackEnd se utilizarón las siguientes tecnologias
